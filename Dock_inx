@@ -1,4 +1,4 @@
-FROM  ubuntu/nginx:latest
+FROM   ubuntu/nginx:1.18-22.04_edge
 
 USER 0
 
